@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate developer that has experience programming Machine Learning Models, GUIs, and Control Systems. Sidenote: There may not be Java code in my repos, but I have atleast 3 years of Java experience, most of which are on other accounts or are work I cant disclose.
+I am a passionate developer that has experience programming Machine Learning Models, GUIs, and Control Systems.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
