@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate developer that has experience programming Machine Learning Models, GUIs, and Control Systems.
+I am a passionate software engineer that has experience programming Machine Learning Models, Control Systems, Large-scale products.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
